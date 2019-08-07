@@ -17,3 +17,10 @@ Seven steps to solving programming problems - interesting!
 How to identify genes in a strand of DNA - java String class to the rescue! 
 Identify patterns in the data represented by strings.
 
+### Week 3
+"Open Source" Apache CSV parser library, parsing basic csv files and analyzing data
+
+### Week 4
+Baby Names mini project - analyzing large collection of csv files to find trends in baby names in US
+
+
