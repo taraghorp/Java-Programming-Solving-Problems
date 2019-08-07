@@ -145,17 +145,6 @@ public class Project  {
 
 		newName = getName(newYear, popularity, gender);
 		
-		/*for(CSVRecord record : parserNew) {
-			String currGender = record.get(1);
-			long currPopularity = record.getRecordNumber();
-			if (gender.equals("M")) {
-				currPopularity = currPopularity - beforeFirstMaleRecordNew;
-			}
-			if(currGender.equals(gender) && popularity == currPopularity) {
-				newName = record.get(0);
-			}
-		}*/
-
 		System.out.println(name + " born in " + year + " would be " + newName + " if " + (gender.equals("M")? "he":"she") +" was born in " + newYear);
 	}
 	
