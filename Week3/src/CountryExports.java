@@ -1,4 +1,8 @@
 
+/**
+ * @author Tara G.
+ */
+
 import edu.duke.*;
 import org.apache.commons.csv.*;
 
@@ -11,13 +15,13 @@ public class CountryExports {
 	public void tester() {
 		FileResource fr = new FileResource();
 		CSVParser parser = fr.getCSVParser();
-		String info = countryInfo(parser, "Germany");
-		parser = fr.getCSVParser();
-		listExportersTwoProducts(parser,"gold", "diamonds");
-		parser = fr.getCSVParser();
-		int number = numberOfExporters(parser,"gold");
-		parser = fr.getCSVParser();
-		bigExporters(parser, "$999,999,999");
+		//String info = countryInfo(parser, "Nauru");
+		//parser = fr.getCSVParser();
+		//listExportersTwoProducts(parser,"cotton", "flowers");
+		//parser = fr.getCSVParser();
+		//int number = numberOfExporters(parser,"cocoa");
+		//parser = fr.getCSVParser();
+		bigExporters(parser, "$999,999,999,999");
 	}
 	
 	public String countryInfo(CSVParser parser, String country) {
