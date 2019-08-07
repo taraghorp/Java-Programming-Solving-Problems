@@ -1,5 +1,11 @@
 # Java-Programming-Solving-Problems
-Java Programming: Solving Problems with Software Course on Coursera.org by Duke University
+
+Java Programming: Solving Problems with Software by Duke University on Coursera. 
+
+Certificate earned at Wednesday, August 7, 2019 1:34 PM GMT
+
+
+[View my certificate here](https://www.coursera.org/account/accomplishments/certificate/8BUNBJ7G8M3M)
 
 This was an interesting and challenging 4 week course I decided to take during my summer vacation. 
 
